@@ -2,9 +2,10 @@
  Hand Written Digit Recognition using javascript library tensorflowjs
  
 ## Live Demo
+<!--
 ## **[https://bensonruan.com/handwritten-digit-recognition-with-tensorflow-js/](https://bensonruan.com/handwritten-digit-recognition-with-tensorflow-js/)**
 
-## ![handwritten-recognition](https://bensonruan.com/wp-content/uploads/2019/09/handwritten-recognition-5.gif)
+## ![handwritten-recognition](https://bensonruan.com/wp-content/uploads/2019/09/handwritten-recognition-5.gif) -->
  
 ## Installing
 Clone this repository to your local computer
