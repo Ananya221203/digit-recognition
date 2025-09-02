@@ -11,9 +11,10 @@ Clone this repository to your local computer
 ``` bash
 https://github.com/Ananya221203/digit-recognition.git
 ```
-Point your localhost to the cloned root directory
+<!-- Point your localhost to the cloned root directory
 
-Browse to http://localhost/index.html  
+Browse to http://localhost/index.html  -->
+ 
 
 ## Start Predicting Hand Written Digit
 * Draw on the canvas with your mouse on desktop or your finger on your mobile
